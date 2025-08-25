@@ -25,7 +25,7 @@ export const personalInfo = {
   linkedin: "https://www.linkedin.com/in/arogya-sharma-b029021a9/",
   location: "Chennai, India",
   bio: "Passionate Software Engineer specializing in full-stack development and system design. Currently pursuing Computer Science at VIT Chennai with hands-on experience in building production-grade applications. Proven track record of delivering scalable web solutions for government and enterprise clients, with expertise in modern development frameworks, database architecture, and cloud deployment strategies.",
-  resumeUrl: "https://drive.google.com/file/d/1Ufz15VDaRiZMUmgqRLJ__fCk7jYcAg5O/view?usp=sharing",
+  resumeUrl: "https://drive.google.com/file/d/1xcECEn_TGokqRbbHqG7SByHBAhKCeicn/view?usp=sharing",
   avatar: "/images/avatar.jpg"
 }
 
